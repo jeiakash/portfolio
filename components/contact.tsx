@@ -130,8 +130,8 @@ export default function Contact() {
     {
       icon: Phone,
       title: "Call Us",
-      details: "+91 XXX XXX XXXX",
-      link: "tel:+91XXXXXXXXXX",
+      details: "+91 70104 38493",
+      link: "tel:+917010438493",
     },
     {
       icon: Mail,
