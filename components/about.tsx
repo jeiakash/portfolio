@@ -3,7 +3,7 @@
 export default function About() {
   const personalInfo = [
     { label: "Birthday:", value: "2 July 2005" },
-    { label: "Website:", value: "www.example.com" },
+    { label: "Website:", value: "jeiakash.vercel.app" },
     { label: "Phone:", value: "+917010438493" },
     { label: "City:", value: "Coimabtore,Tamil Nadu" },
     { label: "Age:", value: "20" },
